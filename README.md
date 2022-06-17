@@ -1,3 +1,10 @@
+#Daily_Dispatch
+
+Daily_Dispatch is a conversational Voice Controlled React News Application using Alan AI. 
+Alan AI is a revolutionary speech recognition software that allows to add voice capabilities to our applications. 
+It allows to control absolutely everything in the app using voice.
+This app fectches the news using news api and is displayed as per our demand made to our virtual assistant.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

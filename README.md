@@ -1,4 +1,4 @@
-#Daily_Dispatch
+# Daily_Dispatch
 
 Daily_Dispatch is a conversational Voice Controlled React News Application using Alan AI. 
 Alan AI is a revolutionary speech recognition software that allows to add voice capabilities to our applications. 

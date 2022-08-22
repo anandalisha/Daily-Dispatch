@@ -5,6 +5,14 @@ Alan AI is a revolutionary speech recognition software that allows to add voice 
 It allows to control absolutely everything in the app using voice.
 This app fectches the news using news api and is displayed as per our demand made to our virtual assistant.
 
+![image](https://user-images.githubusercontent.com/89207792/149677747-54e6f561-1027-4be7-8102-1a677c5b5ce2.png)
+
+Click on the mic button at the bottom right corner and start interacting...
+
+
+![image](https://user-images.githubusercontent.com/89207792/149677802-7f2e4486-2468-4cdc-88dc-e44eaacef610.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
